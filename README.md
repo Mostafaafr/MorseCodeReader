@@ -1,7 +1,5 @@
 # MorseCodeReader
 Automatically Converts Morse Code to Alphanumeric Characters!
-<h1> Morse Code Reader</h1>
-<p> Press a button connected to an Arduino with Morse Code and output letters </p>
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
